@@ -14,7 +14,7 @@ Every student adds **one file** here through a **pull request** — your first c
    # Your Full Name
    - Roll no: 545
    - GitHub: @irshadpatelcodey
-   - My AI https://github.com/irshadpatelcodey/Credit-Card-Fraud-Detection-545-AI
+   - My AI Project :https://github.com/irshadpatelcodey/Credit-Card-Fraud-Detection-545-AI
    - One line about it: … its credit card fraud detection ML Project
    ```
 
